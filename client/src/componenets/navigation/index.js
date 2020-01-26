@@ -5,13 +5,7 @@ class Navigation extends Component {
   render() {
       return (
         <div>
-          <section id="hero-area">
-            <img
-              className="img-responsive"
-              src="images/AdobeStock_225266896_Preview.jpg"
-              alt
-            />
-          </section>
+         
           {/*
       Header start 
       ============================== */}

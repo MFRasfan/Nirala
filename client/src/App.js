@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.css';
-// import OwlCarousel from 'react-owl-carousel';
+import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import './App.css';
@@ -29,13 +29,11 @@ class App extends Component {
     return (
 <div>
 
-
+<OwlCarousel></OwlCarousel>
 
 <Area></Area>
 
-<Navigation>
- 
-</Navigation>
+<Navigation></Navigation>
 
 <Slider></Slider>
 
