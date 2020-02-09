@@ -516,7 +516,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #catering .block p {
   padding: 25px 0px;
   color: #fff;
-  font-size: 18px;
+  font-size: 12px;
 }
 #catering .block form .form-control {
   width: 450px;
@@ -525,7 +525,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   border: none;
   height: 65px;
   border-radius: 0px;
-  font-size: 15px;
+  font-size: 12px;
 }
 #catering .block form .input-group-addon {
   padding: 0px;
