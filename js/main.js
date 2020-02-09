@@ -46,7 +46,7 @@ window.addEventListener("DOMContentLoaded", function() {
     
     function success() {
       form.reset();
-      button.style = "display: none ";
+      // button.style = "display: none ";
       status.innerHTML = "Thanks You";
     }
 
