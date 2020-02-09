@@ -486,13 +486,13 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   background: #ff530a;
   color: #fff;
 }
-/*--
+/* --
     catering Start
 --*/
 #catering {
   padding: 100px 0px;
   text-align: center;
-  /* background: url("../images/AdobeStock_162243061_Preview.jpeg"); */
+  background: url("../images/AdobeStock_114027267_Preview.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -507,7 +507,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url("../images/overlay-pattern.png") #000000;
+  background: url("../images/overlay-pattern.png") white;
   opacity: 0.3;
 }
 #catering .block h1.heading {
@@ -540,7 +540,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   background: #7EC3BB;
   color: #fff;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
   -webkit-transition: .3s all;
