@@ -498,7 +498,9 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   background-size: cover;
   position: relative;
 }
-
+#catering .block .heading {
+  color: #fff;
+}
 #catering .block .item .item-title span {
   color: #938463;
   font-size: 12px;
