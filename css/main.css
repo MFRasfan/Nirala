@@ -99,6 +99,26 @@ a:active {
 .title span {
   color: #FF5333;
 }
+
+.taketitle {
+  color: #FF5333;
+  text-transform: uppercase;
+  padding: 30px 0px;
+  float:right;
+}
+.taketitle span {
+  color: #FF5333;
+}
+.dinetitle {
+  color: #FF5333;
+  text-transform: uppercase;
+  padding: 30px 0px;
+  margin-right:20px;
+  float:right;
+}
+.dinetitle span {
+  color: #FF5333;
+}
 .before-border {
   content: "";
   position: absolute;
@@ -464,6 +484,13 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #price .block .pricing-list ul li .item .item-title span {
   float: right;
   color: #938463;
+  margin-left: 40px;
+}
+
+#price .block .pricing-list ul li .item .dine-title span {
+  float: right;
+  color: #938463;
+  margin-left: 250px;
 }
 #price .block .pricing-list ul li .item p {
   padding: 12px 0 0px;

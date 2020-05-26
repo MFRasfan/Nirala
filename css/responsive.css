@@ -12,6 +12,12 @@ px      68    160    252    344    436    528    620    712    */
   .title {
     text-align: left;
   }
+  .dinetitle {
+    text-align: left;
+  }
+  .taketitle {
+    text-align: left;
+  }
   /*--
     nav Start
 --*/
@@ -289,6 +295,7 @@ px      68    160    252    */
     display: block;
     float: none;
   }
+  
   #price .block .pricing-list .btn {
     float: inherit;
     padding: 28px 100px;
