@@ -1,6 +1,8 @@
 $(document).ready(function(){
 
-
+  $('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
  $("#owl-example").owlCarousel({
     // Most important owl features
     items : 4,
@@ -79,3 +81,4 @@ window.addEventListener("DOMContentLoaded", function() {
     };
     xhr.send(data);
   }
+  

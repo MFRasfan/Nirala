@@ -150,6 +150,12 @@ px      68    160    252    */
   .title {
     text-align: left;
   }
+  .dinetitle {
+    text-align: left;
+  }
+  .taketitle {
+    text-align: left;
+  }
   /*--
     nav Start
 --*/
@@ -293,7 +299,7 @@ px      68    160    252    */
   #price .block .pricing-list ul li .item .item-title span {
     padding-top: 10px;
     display: block;
-    float: none;
+    float: right;
   }
   
   #price .block .pricing-list .btn {
